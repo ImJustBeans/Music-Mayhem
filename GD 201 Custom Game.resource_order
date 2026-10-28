@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":1,"path":"folders/Objects.yy",},
+    {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
+    {"name":"Music note Sprites","order":2,"path":"folders/Sprites/Music note Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"ob_spawner","order":1,"path":"objects/ob_spawner/ob_spawner.yy",},
+    {"name":"NoteRef","order":3,"path":"sprites/NoteRef/NoteRef.yy",},
+    {"name":"s_Bplayer","order":3,"path":"sprites/s_Bplayer/s_Bplayer.yy",},
+    {"name":"s_n2","order":1,"path":"sprites/s_n2/s_n2.yy",},
+    {"name":"s_n2v2_1","order":3,"path":"sprites/s_n2v2_1/s_n2v2_1.yy",},
+    {"name":"s_n2v2","order":2,"path":"sprites/s_n2v2/s_n2v2.yy",},
+    {"name":"s_n3","order":5,"path":"sprites/s_n3/s_n3.yy",},
+    {"name":"s_n3v2","order":4,"path":"sprites/s_n3v2/s_n3v2.yy",},
+    {"name":"s_n4","order":6,"path":"sprites/s_n4/s_n4.yy",},
+    {"name":"s_n5","order":7,"path":"sprites/s_n5/s_n5.yy",},
+  ],
+}

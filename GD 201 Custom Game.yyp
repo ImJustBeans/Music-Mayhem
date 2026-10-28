@@ -1,0 +1,50 @@
+{
+  "$GMProject":"v1",
+  "%Name":"GD 201 Custom Game",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":0,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Music note Sprites","folderPath":"folders/Sprites/Music note Sprites.yy","name":"Music note Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2026.0.0.16",
+  },
+  "name":"GD 201 Custom Game",
+  "resources":[
+    {"id":{"name":"ob_player","path":"objects/ob_player/ob_player.yy",},},
+    {"id":{"name":"ob_spawner","path":"objects/ob_spawner/ob_spawner.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"NoteRef","path":"sprites/NoteRef/NoteRef.yy",},},
+    {"id":{"name":"s_Bplayer","path":"sprites/s_Bplayer/s_Bplayer.yy",},},
+    {"id":{"name":"s_n2","path":"sprites/s_n2/s_n2.yy",},},
+    {"id":{"name":"s_n2v2_1","path":"sprites/s_n2v2_1/s_n2v2_1.yy",},},
+    {"id":{"name":"s_n2v2","path":"sprites/s_n2v2/s_n2v2.yy",},},
+    {"id":{"name":"s_n3","path":"sprites/s_n3/s_n3.yy",},},
+    {"id":{"name":"s_n3v2","path":"sprites/s_n3v2/s_n3v2.yy",},},
+    {"id":{"name":"s_n4","path":"sprites/s_n4/s_n4.yy",},},
+    {"id":{"name":"s_n5","path":"sprites/s_n5/s_n5.yy",},},
+    {"id":{"name":"s_NSpawner","path":"sprites/s_NSpawner/s_NSpawner.yy",},},
+    {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
